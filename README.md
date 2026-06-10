@@ -1,3 +1,5 @@
+> Part of [**app-pixels.com**](https://www.app-pixels.com) — browse + flash this app at [`/apps/stopwatch`](https://www.app-pixels.com/apps/stopwatch).
+
 # stopwatch
 
 **Stopwatch** · v1.0.0
